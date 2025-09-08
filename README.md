@@ -24,7 +24,7 @@ Perform dimensionality reduction using PCA to visualize the wine quality dataset
 
 ## ✅ Example Output
 
-![PCA Visualization](<img width="1052" height="873" alt="image" src="https://github.com/user-attachments/assets/fab09b2d-b892-4952-9710-7915916dfcbe" />)  
+(<img width="1052" height="873" alt="image" src="https://github.com/user-attachments/assets/fab09b2d-b892-4952-9710-7915916dfcbe" />)  
 *Figure: PCA scatter plot showing samples colored by wine quality.*
 
 ---
