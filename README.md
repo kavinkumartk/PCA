@@ -19,7 +19,7 @@ Perform dimensionality reduction using PCA to visualize the wine quality dataset
 3. **Scale Features**
 4. **Apply PCA (2 Components)**
 5. **Visualize PCA Results**
-6. 
+
 ---
 
 ## ✅ Example Output
